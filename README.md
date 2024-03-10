@@ -5,7 +5,7 @@ I made "Tanghulu Maker" as a solo game developer. I am currently working as a fr
 #### Check out what I made! Search 'tanghulu maker' in Google!
 ## Tanghulu Maker
 #### [APPSTORE](https://apps.apple.com/us/app/tanghulu-maker/id6469285136) / [GOOGLEPLAY](https://play.google.com/store/apps/details?id=com.GorabiStudio.TanghuluMaker)
-<br/><br/><br/>
+<br/><br/>
 ## BOJ
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=enrue1894)](https://solved.ac/enrue1894/)
 
