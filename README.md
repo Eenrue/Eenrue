@@ -9,6 +9,8 @@ I made "Tanghulu Maker" as a solo game developer. I am currently working as a fr
 ## BOJ
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=enrue1894)](https://solved.ac/enrue1894/)
 
+
+
 <!--
 **Eenrue/Eenrue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
