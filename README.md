@@ -1,7 +1,7 @@
 <div align="center"> 
 
 ### Hi there 👋
-I made "Tanghulu Maker" as a solo game developer. I am currently working as a front-end developer.
+I made "Tanghulu Maker" as a solo game developer. I am currently interested in computer vision.
 #### Check out what I made! Search 'tanghulu maker' in Google!
 ## Tanghulu Maker
 #### [APPSTORE](https://apps.apple.com/us/app/tanghulu-maker/id6469285136) / [GOOGLEPLAY](https://play.google.com/store/apps/details?id=com.GorabiStudio.TanghuluMaker)
